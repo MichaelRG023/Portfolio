@@ -3,20 +3,22 @@ import Home from './component/Home';
 import About from './component/About'
 import Skills from './component/Skills';
 import Navbar from './component/Navbar';
+import Contact from './component/Contact';
 
 function App() {
 
 
   return (
-    <main className='text-gray-400 bg-gray-900 body-front'>
+    <div>
         <Navbar/>
         <Home/>
         <About/> 
         <Skills/>
-       
+        <Contact/>
+      </div>
 
 
-    </main>
+  
       
       
     

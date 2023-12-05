@@ -1,16 +1,13 @@
 function Skills(){
     return(
-        <section id="skills">
-            <div className="container px-5 py-10 mx-auto">
-                <div className="text-center mb-20">
-                    <h1 className="sm:text-4x1 text-3x1 font-medium title-font text-white mb-4">
-                        Skills &amp; Technologies
-                    </h1>
-                    
-                </div>
-            </div>
-
-        </section>
+       <div name="skills" className="w-full h-screen bg-[#0a192f] text-gray-300">
+        {/* Container*/}
+        <div>
+            <p>Skills</p>
+            <p>Here is a list of technologies that I've worked with</p>
+          
+        </div>
+       </div>
     )
 }
 
