@@ -1,6 +1,6 @@
 import { Link } from "react-scroll";
 import {HiArrowNarrowRight} from 'react-icons/hi'
-import me from '../component/assests/me.png';
+
 
 
 function Home(){
@@ -28,7 +28,8 @@ function Home(){
             </div>
             <div>
                 <img
-                src={me}
+                src="https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/336730073_1209232506621842_807278614068645840_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=M-OjJQUivO0AX-xL7PZ&_nc_ht=scontent-lga3-2.xx&oh=00_AfCovrMjLRy9AUn-Xw7yyHg8eHgWC4-vb-VN6Gs-eCPOxA&oe=657FE36D"
+                
                 alt="my-profile"
                 className="rounded-2x1 mx-auto ww2/3 md:w-full"
                 />

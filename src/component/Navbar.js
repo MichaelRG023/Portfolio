@@ -15,7 +15,7 @@ function Navbar(){
 
     
 
-
+    // react-scroll is used in order to scoll to a different part of the same page instead of clicking on a button.
 
     return(
         <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-30">

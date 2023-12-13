@@ -2,7 +2,7 @@ import React from "react"
 function Contact(){
 
 
-
+//pb-8 would be padding bottom 8px, bg-[] would be background color
     return(
         <div name="contact" className="w-full h-screen bg-[#0a192f] flex justify-center items-center p-4">
             <div className=" flex flex-col max-w-[600px] w-full">
