@@ -2,7 +2,7 @@ function Skills(){
 
 
     // more tailwind css options such as grid-cols which is the grid template shown in line 14
-
+    //Use the duration-{amount} utilities to control an element’s transition-duration. A hover option to use.
     return(
        <div name="skills" className="w-full h-screen bg-[#0a192f] text-gray-300">
         {/* Container*/}
