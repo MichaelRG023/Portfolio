@@ -1,5 +1,7 @@
 import React from "react";
 function About(){
+
+  // bg-[#0a192f] that is the blue background for all of my pages
     return(
        <div 
        name="about"
@@ -19,13 +21,13 @@ function About(){
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
               <p>
-                Welcome to my portfolio. I'm Michael Gonzalez and I'm a Frontend Software Engineer.
+                Welcome to my portfolio. I'm Michael Gonzalez, a Frontend  Engineer .
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                I have experience from a coding Bootcamp with extensive training in JavaScript, ReactJs, and Ruby on Rails. Before coding, I worked at a retail store in Home Depot as a sales associate.
+                I have experience from a coding Bootcamp with extensive training in JavaScript, ReactJs, and Ruby on Rails. Before coding, I worked at a retail store in Home Depot as a sales associate providing the best customer service in my department.
               </p>
             </div>
           </div>

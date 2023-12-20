@@ -25,7 +25,7 @@ function Project(){
                                 <p> A website application built using React and API </p>
                                 <a
                                 href="https://github.com/MichaelRG023/Ken-MoveSet">
-                                    Ken Masters Bio 
+                                    <strong>Ken Masters Bio </strong>
                                 </a>
                             </div>
                         </div>
