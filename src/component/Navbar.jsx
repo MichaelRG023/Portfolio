@@ -29,6 +29,7 @@ function Navbar(){
                     <Link to="home" smooth={true} duration={500}>
                         Home
                     </Link>
+                    </li>
                     <li>
                        <Link to="about" smooth={true} duration={500}>
                         About
@@ -44,15 +45,14 @@ function Navbar(){
                         Project
                     </Link>
                   </li>
+                  <li>
                   <Link to='contact' smooth={true} duration={500}>
                     Contact
                   </Link>
-                    
-                    
-                    
-                </li>
+               </li>
             </ul>
           
+
             <div onClick={handleClick} className="md:hidden z-10">
                 {!nav ? <FaBars/> : <FaTimes/>}
             </div>
@@ -78,6 +78,11 @@ function Navbar(){
                 <li>
                     <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
                     Skills
+                    </Link>
+                </li>
+                <li>
+                    <Link onClick={handleClick} to="project" smooth={true} duration={500}>
+                        Project 
                     </Link>
                 </li>
             </ul>

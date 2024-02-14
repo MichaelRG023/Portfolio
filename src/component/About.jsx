@@ -27,7 +27,7 @@ function About(){
             <div>
               <p>
                 {" "}
-                I have experience from a coding Bootcamp with extensive training in JavaScript, ReactJs, and Ruby on Rails. Before coding, I worked at a retail store in Home Depot as a sales associate providing the best customer service in my department.
+                I have experience from a coding Bootcamp with extensive training in JavaScript, ReactJs, and Ruby on Rails. Before coding, I worked at a retail store in Home Depot as a sales associate providing the best customer service in my department. During my time I had helped numerous newer employees with customers services and the routine of the job.
               </p>
             </div>
           </div>

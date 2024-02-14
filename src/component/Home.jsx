@@ -11,7 +11,7 @@ function Home(){
         name="home"
         className="">
             <p>
-                I am a recent student at Flatiron Bootcamp and has experiences with languages such as JavaScript,HTML,CSS  and Rails. My choice of frameworks are React.Js and Ruby on Rails.
+                I am a student at Flatiron Bootcamp and has experiences with languages such as JavaScript, HTML, CSS and Rails. My choice of frameworks are React.Js and Ruby on Rails. 
             </p>
             <div>
                 <Link
@@ -27,12 +27,7 @@ function Home(){
                 </Link>
             </div>
             <div>
-                <img
-                src="https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/336730073_1209232506621842_807278614068645840_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Yoea55XQBDEAX-9rRqx&_nc_ht=scontent-lga3-2.xx&oh=00_AfDXItA95-hYLChm3EpX6yrzEgeJbOEsVlIrLjmYu7GcSw&oe=6587CC6D"
-                
-                alt="my-profile"
-                className="rounded-2x1 mx-auto ww2/3 md:w-full"
-                />
+               
             </div>
         </div>
     )
