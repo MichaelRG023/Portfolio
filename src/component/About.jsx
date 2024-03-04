@@ -13,19 +13,19 @@ function About(){
           <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8 mb-4">
             <div className="sm:text-right pb-8 pl-4">
               <p className="text-4xl font-bold inline border-b-4 border-cyan-500">
-                About
+                About Me
               </p>
             </div>
             <div></div>
           </div>
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
-              <p>
-                Welcome to my portfolio. I'm Michael Gonzalez, a Frontend  Engineer .
+              <p className="text-3xl">
+                Welcome to my portfolio. I'm Michael Gonzalez, a Frontend Developer!
               </p>
             </div>
             <div>
-              <p>
+              <p className=" text-2xl">
                 {" "}
                 I have experience from a coding Bootcamp with extensive training in JavaScript, ReactJs, and Ruby on Rails. Before coding, I worked at a retail store in Home Depot as a sales associate providing the best customer service in my department. During my time I had helped numerous newer employees with customers services and the routine of the job.
               </p>
