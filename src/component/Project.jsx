@@ -20,13 +20,25 @@ function Project(){
                             {/*Hover Effects */}
                             <div>
                                 
-                                <p> A website application built using React, JavaScript and db.json API </p>
+                                <p> A website application made for Ken from Street Fighter frame data and biography. Built using React, JavaScript and db.json API </p>
                                 <a
-                                href="https://github.com/MichaelRG023/Ken-MoveSet">
-                                    <strong>Ken Masters Bio </strong>
+                                href="https://michaelrg023.github.io/Ken-MoveSet/">
+                                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"> Demo</button>
                                 </a>
-                            </div>
+                                  <strong>Ken Masters Bio </strong>
+                            </div> 
+                            
                         </div> 
+                        <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
+                            <div>
+                                <p> A website app built using ReactJS framework with Rapid API being used to distribute data.</p>
+                                    <a
+                                    href="https://github.com/MichaelRG023/Language-Translator">
+                                        <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"> Code</button>
+                                    </a>
+                                   <strong>Language Translator</strong>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
